@@ -70,7 +70,7 @@ bash <(curl -L https://t.ly/tHxh)
 ### NO ERROR DEPLOY
             
 ```
-  for easy deploy fork this repo & add the given link in your readme by changing repository link - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your repository link here)
+  for easy deploy fork this repo & add the given link in your readme by changing repository link - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmalserOFC/Harley-quinn-v1.git)
 ```
 ## F.A.Q
 Answer a few frequently asked questions;
@@ -115,7 +115,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 add your own heroku button
   
   example :
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmalserOFC/Harley-quinn-v1)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your repository link here)
   
   change it into your repo link
 ```
